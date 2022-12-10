@@ -21,7 +21,7 @@
     "discord.js": "^11.5.1",
     "discord.js-minesweeper": "^1.0.4-b",
     "emojis": "^1.0.10",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "fortnite": "^4.3.2",
     "fs": "0.0.1-security",
     "fs-nextra": "^0.4.4",
